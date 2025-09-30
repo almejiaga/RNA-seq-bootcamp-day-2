@@ -10,7 +10,7 @@ This workhop covers all the processing pipeline from raw FASTQ files to count ma
 
 ### Contents
 
-- Link to google colab: [https://colab.research.google.com/drive/1AelvR85tGpWhW5OiiqfhXmOUPV1BCn8u?usp=sharing](https://colab.research.google.com/gist/almejiaga/1bd36841a94b5a1d45a2c85be830f0d1/rna-seq_workshop.ipynb?authuser=1)
+- Link to google colab: https://colab.research.google.com/gist/almejiaga/44f8b5f888bb740c63e33d4d371ca20b/rna-seq_workshop.ipynb?authuser=1
 
 All material for exercise can be found in the Exercise/ directory
 
