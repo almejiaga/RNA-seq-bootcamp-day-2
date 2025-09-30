@@ -19,5 +19,3 @@ This is a copy of the google colab script MiCM_PRS_CAD.ipynb
 - data
 Contains the .fastq file used to perform the analysis. The full FASTQ file can be found here: GSE250471
 
-It also contains the html files generated from FASTQC
-
