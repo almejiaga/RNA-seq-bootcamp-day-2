@@ -1,7 +1,7 @@
 # QLS-MiCM RNA-seq Workshop for D2R - Day 2
 
 
-This workhop cover all the processing pipeline from raw FASTQ files to count matrix for RNA-seq data
+This workhop covers all the processing pipeline from raw FASTQ files to count matrix for RNA-seq data
 
 ### Requirements
 
