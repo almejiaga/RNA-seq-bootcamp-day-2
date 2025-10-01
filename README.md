@@ -16,7 +16,7 @@ All material for exercise can be found in the Exercise/ directory
 
 - scripts
 
-This is a copy of the google colab script MiCM_PRS_CAD.ipynb
+This is a copy of the google colab script
 - data
 
 Contains the .fastq file used to perform the analysis. The full FASTQ file can be found here: GSE250471
